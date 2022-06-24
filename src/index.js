@@ -4,5 +4,9 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <App />
+  <div>
+    <h1>Index.js</h1>
+    <App />
+  </div>
+  
 );

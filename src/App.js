@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   return (
     <div className="app">
-      <h1>App.jsx</h1>
+      <h2>App.js</h2>
       <CustomComponent/>
     </div>
   );
