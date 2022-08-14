@@ -3,7 +3,9 @@ This project is part of a series of small exercises for learning and practicing 
 
 [next exercise >](https://github.com/adriangheo/pass-props-to-component "Pass Props to Component")
 
-Project screenshot:<br/>
+---
+
+### Project screenshot:
 ![project screnshot](proj-img.png)
 
 ---
