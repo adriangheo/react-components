@@ -1,3 +1,11 @@
+# React-Components
+This project is part of a series of small exercises for learning and practicing React.
+
+Project screenshot:
+![project screnshot](proj-img.png)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
