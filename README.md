@@ -1,6 +1,8 @@
 # React-Components
 This project is part of a series of small exercises for learning and practicing React.
 
+[next exercise >](https://github.com/adriangheo/pass-props-to-component "Pass Props to Component")
+
 Project screenshot:<br/>
 ![project screnshot](proj-img.png)
 
